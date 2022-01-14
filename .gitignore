@@ -1,0 +1,4 @@
+*.csv
+lightning_logs/*
+.ipynb_checkpoints/*
+*.pt
